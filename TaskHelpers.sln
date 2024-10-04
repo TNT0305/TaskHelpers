@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskHelpers", "TaskHelpers\TaskHelpers.csproj", "{87BCF01E-436F-4DA7-9D2E-A386F3A1B13D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskHelpers.Console", "TaskHelpers.Console\TaskHelpers.Console.csproj", "{AE93FDD2-3436-4BB1-B3AF-1350EF496CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87BCF01E-436F-4DA7-9D2E-A386F3A1B13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BCF01E-436F-4DA7-9D2E-A386F3A1B13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BCF01E-436F-4DA7-9D2E-A386F3A1B13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BCF01E-436F-4DA7-9D2E-A386F3A1B13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE93FDD2-3436-4BB1-B3AF-1350EF496CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE93FDD2-3436-4BB1-B3AF-1350EF496CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE93FDD2-3436-4BB1-B3AF-1350EF496CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE93FDD2-3436-4BB1-B3AF-1350EF496CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B9A4AE1-B1B1-4361-A407-9F3F2BC7EC3F}
+	EndGlobalSection
+EndGlobal
